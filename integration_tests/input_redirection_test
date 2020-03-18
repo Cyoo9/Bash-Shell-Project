@@ -1,0 +1,4 @@
+echo 'hello' > output
+cat < output
+rm output
+exit
